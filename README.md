@@ -1,5 +1,6 @@
 # Memory Match Game
 Píldora Git+GitHub y Pull Request
+git upstream
 
 ## Índice
 
